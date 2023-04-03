@@ -1,0 +1,2 @@
+ID;orderNumber;orderAmount;orderDate;shippingCountry;expectedDeliveryDate;orderStatus
+917093f3-c70c-4501-a99f-696314cefda1;PO3115 ;273993.56;28/01/2022;Germany;10/03/2022;In Time
